@@ -52,5 +52,6 @@
 		"Appendice",
 		"abbrv",
 		"mybib"
-	]
+	],
+	"theme": "Adaptive.sublime-theme"
 }
