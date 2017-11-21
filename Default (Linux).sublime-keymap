@@ -9,5 +9,6 @@
 	{ "keys": ["ctrl+k"], "command": "move", "args": {"by": "lines", "forward": true} },
 	{ "keys": ["ctrl+'"], "command": "expand_selection", "args": {"to": "line"} },
 	{ "keys": ["ctrl+tab"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+shift+m"], "command": "toggle_menu" },
 
 ]
